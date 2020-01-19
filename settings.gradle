@@ -1,0 +1,2 @@
+include ':app', ':redux'
+rootProject.name='Mobile Gallery'
